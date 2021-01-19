@@ -9,7 +9,8 @@ We are going to manually prepare the data rather then download if from the web. 
 Structure of data storage
 We can either write the alphabets on white paper and then extract it using a phone camera or directly use a graphics tool like paint to write using the pen tool. I have created two folders train and test. In the train folder we can save folders with alphabet name while in the test folder we can dump the images for which we want to finally classify the instances. The training sub folders have been kept with an intention to have the sub folder name as the training tags. The Testing folder has not been kept in the same form as here we intend to do the classification.
 
-Alternatively if you want to download the data which I have used, right click on this download data link and open in new tab or window. Then unzip the folders and you should be able to see the same structure and data as above in your downloads folder.
+Alternatively if you want to download the data which I have used, right click on this [download data link](http://www.imurgence.com//uploads/thumbnails/sample_data/alphabet_folder.zip) and open in new tab or window. 
+Then unzip the folders and you should be able to see the same structure and data as above in your downloads folder.
 
 Later you should create your own data and do the whole process again. This would give exposure to the complete cycle.
 
